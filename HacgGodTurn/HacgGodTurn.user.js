@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        琉神转
+// @name        mediafrostik; frostik; RSTSLV_01; Frostik
 // @name:en     HacgGodTurn
 // @name:zh-TW  琉神轉
 // @name:ja     琉璃神社工具セット
